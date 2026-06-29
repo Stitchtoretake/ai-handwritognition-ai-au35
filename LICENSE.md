@@ -1,4 +1,4 @@
-# 
+# Último AI Handwriting Recognition plugins. Con IA en el borde y redes neuronales — optimizado para el máximo rendimiento.
 
 
 
